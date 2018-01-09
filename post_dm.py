@@ -12,7 +12,6 @@ import ass_maker
 import var_set
 import _thread
 import random
-import dht11
 
 path = var_set.path         #引入设置路径
 roomid = var_set.roomid     #引入设置房间号
